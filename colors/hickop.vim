@@ -1,5 +1,5 @@
 " File: hickop.vim
-" Version: 1.0
+" Version: 1.1
 " Author: hickop <hickop@gmail.com>
 " Description: simple dark colorscheme for vim and gvim
 
@@ -20,7 +20,7 @@ if has("gui_running")
     let s:whi="#c6c6c6"
     let s:gr1="#6c6c6c"
     let s:gr2="#303030"
-    let s:red="#870000"
+    let s:red="#af5f5f"
     let s:gre="#87af87"
     let s:bro="#af875f"
     let s:yel="#d7af5f"
@@ -33,7 +33,7 @@ else
     let s:whi="251"
     let s:gr1="242"
     let s:gr2="236"
-    let s:red="88"
+    let s:red="131"
     let s:gre="108"
     let s:bro="137"
     let s:yel="179"
